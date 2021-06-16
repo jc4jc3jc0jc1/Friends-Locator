@@ -16,23 +16,23 @@
     "babel-loader": "^6.3.2",
     "babel-preset-es2015": "^6.22.0",
     "babel-preset-react": "^6.23.0",
-    "webpack": "^2.2.1"
+    "webpack": "^5.39.0"
   },
   "dependencies": {
     "@esri/arcgis-rest-auth": "^1.16.0",
     "@esri/arcgis-rest-common-types": "^1.16.0",
     "@esri/arcgis-rest-geocoder": "^1.16.0",
     "@esri/arcgis-rest-request": "^1.16.0",
-    "angular": "^1.6.3",
-    "axios": "^0.18.0",
+    "angular": "^1.8.2",
+    "axios": "^0.21.1",
     "bluebird": "^3.5.3",
     "body-parser": "^1.17.2",
     "express": "^4.15.0",
-    "jquery": "^3.1.1",
-    "mongoose": "^4.8.6",
+    "jquery": "^3.6.0",
+    "mongoose": "^5.12.14",
     "mysql": "^2.13.0",
-    "react": "^15.4.2",
-    "react-addons-update": "^15.6.2",
-    "react-dom": "^15.4.2"
+    "react": "^17.0.2",
+    "react-addons-update": "^15.6.3",
+    "react-dom": "^17.0.2"
   }
 }
