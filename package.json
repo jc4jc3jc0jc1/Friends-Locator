@@ -29,7 +29,7 @@
     "body-parser": "^1.17.2",
     "express": "^4.15.0",
     "jquery": "^3.6.0",
-    "mongoose": "^5.12.14",
+    "mongoose": "^5.13.15",
     "mysql": "^2.13.0",
     "react": "^17.0.2",
     "react-addons-update": "^15.6.3",
